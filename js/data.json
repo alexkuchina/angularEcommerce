@@ -1,0 +1,147 @@
+[
+	{
+		"name": "Chateau Laffitte Laujac",
+		"image": "bordeaux",
+		"type": "red",
+		"year": "2011",
+		"region": "Medoc, Bordeaux, France",
+		"price": "27.99"
+	},
+	{
+        "name": "Lang & Reed Cabernet Franc",
+        "image": "cabernetFranc",
+        "type": "red",
+        "year": "2013",
+        "region": "Cabernet Franc from North Coast, California",
+        "price": "26.99" 
+    },
+	{
+		"name": "Salcheto Vino Nobile di Montepulciano",
+		"image": "montepulciano",
+		"type": "red",
+		"year": "2012",
+		"region": "Sangiovese, Tuscany, Italy",
+		"price": "24.99" 
+	},
+	{
+		"name": "Paul Janin Beaujolais-Villages",
+		"image": "beaujolais",
+		"type": "red",
+		"year": "2014",
+		"region": "Gamay from Beaujolais, Burgundy, France",
+		"price": "18.99" 
+	},
+	{
+        "name": "Sandeman Vintage Port",
+        "image": "port",
+        "type": "red",
+        "year": "2011",
+        "region": "Port from Portugal",
+        "price": "82.99" 
+    },
+	{
+		"name": "Felsina Berardenga Chianti Classico Riserva",
+		"image": "chianti",
+		"type": "red",
+		"year": "2012",
+		"region": "Chianti, Tuscany, Italy",
+		"price": "27.99" 
+	},
+	{
+		"name": "Bocelli Rosso Toscana Sangiovese",
+		"image": "sangiovese",
+		"type": "red",
+		"year": "2015",
+		"region": "Sangiovese from Tuscany, Italy",
+		"price": "19.00" 
+	},
+	{
+		"name": "Speri Valpolicella Classico Superiore Ripasso",
+		"image": "valpolicella",
+		"type": "red",
+		"year": "2014",
+		"region": "Red Wine from Veneto, Italy",
+		"price": "27.00" 
+	},
+	{
+		"name": "Frederic Magnien Bourgogne Rouge Gravieres",
+		"image": "burgundy",
+		"type": "red",
+		"year": "2013",
+		"region": "Burgundy, France",
+		"price": "33.99" 
+	},
+    {
+		"name": "Delaire Graff Chenin Blanc",
+		"image": "cheninBlanc",
+		"type": "white",
+		"year": "2013",
+		"region": "Chenin Blanc from Swartland, South Africa",
+		"price": "26.00"
+	},
+	{
+		"name": "Holm Oak Tasmania Pinot Gris",
+		"image": "pinotGris",
+		"type": "white",
+		"year": "2015",
+		"region": "Pinot Gris/Grigio from Australia",
+		"price": "25.00" 
+	},
+	{
+		"name": "Voyager Estate Chardonnay",
+		"image": "chardonnay",
+		"type": "white",
+		"year": "2012",
+		"region": "Chardonnay from Margaret River, Australia",
+		"price": "45.00" 
+	},
+	{
+		"name": "Planeta Moscato di Noto",
+		"image": "passito",
+		"type": "white",
+		"year": "2013",
+		"region": "Muscat from Italy",
+		"price": "26.99" 
+	},
+	{
+		"name": "Silkman Semillon",
+		"image": "semillon",
+		"type": "white",
+		"year": "2015",
+		"region": "Semillon from Hunter Valley, Australia",
+		"price": "26.00" 
+	},
+	{
+		"name": "Shaw & Smith Sauvignon Blanc",
+		"image": "sauvignon",
+		"type": "white",
+		"year": "2016",
+		"region": "Sauvignon Blanc from Adelaide, Australia",
+		"price": "26.00" 
+	},
+	{
+		"name": "Hugel Gewurztraminer Jubilee",
+		"image": "gewurz",
+		"type": "white",
+		"year": "2009",
+		"region": "Gewurztraminer from Alsace, France",
+		"price": "45.99" 
+	},
+	{
+        "name": "Terlato Family Vineyards Friuli Pinot Grigio",
+        "image": "pinotGrigio",
+        "type": "white",
+        "year": "2015",
+        "region": "Pinot Gris/Grigio from Friuli-Venezia Giulia, Italy",
+        "price": "24.00" 
+    },
+	{
+		"name": "Frankland Estate Isolation Ridge Riesling",
+		"image": "riesling",
+		"type": "white",
+		"year": "2015",
+		"region": "Riesling from Clare Valley, Australia",
+		"price": "40.00"
+	}
+
+]

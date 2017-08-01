@@ -1,0 +1,29 @@
+
+<div id="red" class="container-fluid">
+	<div class="row text-center">
+		<div class="col-md-12">
+			<nav>
+				<div class="container">
+					<div class="row">
+						<h1 id="wineView">Wine Cellar</h1>
+						<ul id='wineUl'>
+							<li id='homelink'><a href="#/home"><i class="fa fa-home" aria-hidden="true"></i>
+</a></li>
+							<li class='active' id='linkRed'><a href="#/red">Red</a></li>
+							<li id='linkWhite'><a href="#/white">White</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</div>
+</div>
+		<div class="container-fluid text-center" ng-controller="redCtrl">
+			<div class="col-md-4" ng-repeat="item in wineData | filter: 'red'">
+				<a href="#/"><img ng-src="img/{{item.image}}.jpg" class="wines" width='100' height='400'></a>
+				<h2>{{item.name}}</h2>
+				<p>{{item.region}}</p>
+				<p>{{item.year}}</p>
+				<p>{{item.price | currency}}</p>
+			</div>
+		</div>

@@ -1,0 +1,104 @@
+#home {
+    height:100vh;
+    background-image: url(../img/cellar1.jpeg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 5em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: block;
+}
+
+i.fa.fa-home {
+    font-size: 3em;
+    color: black;
+    transition: 0.5s ease;
+}
+
+.fa-home:hover {
+    transform: scale(1.5);
+    text-shadow: 2px 2px grey;
+}
+
+#linkRed a {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    color: black;
+    text-decoration: none;
+}
+
+#linkRed a:hover {
+    color: darkred;
+}
+
+#linkRed {
+    transition: 0.5s ease;
+}
+
+#linkRed:hover {
+    transform: scale(1.5);
+    text-shadow: 2px 2px grey;
+}
+
+#linkWhite a {
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em;
+    color: black;
+    text-decoration: none;
+}
+
+#linkWhite a:hover {
+    color: lightyellow;
+    text-shadow: 2px 2px grey;
+}
+
+#linkWhite {
+    transition: 0.5s ease;
+}
+
+#linkWhite:hover {
+    transform: scale(1.5);
+}
+
+/*Red and White page styling*/
+
+#wineView {
+    float: left;
+    margin: 5px; 
+}
+
+#wineUl{
+    margin: 10px;
+}
+
+#wineUl li {
+    display: inline-block;
+    float: right;
+    margin: 10px 30px;
+}
+
+#wineUl li i.fa.fa-home {
+    font-size: 4em;
+}
+
+.text-center {
+    margin: 60px 0;
+    
+}
+
+h2 {
+    font-size: 20px;
+}
+
+
+
+
